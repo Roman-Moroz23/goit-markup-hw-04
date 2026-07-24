@@ -30,7 +30,7 @@
 }
 .section-footer .container {
   display: flex;
-  align-items: baseline;
+  align-items: flex-start;
 }
 .footer-left {
   margin-right: 120px;
