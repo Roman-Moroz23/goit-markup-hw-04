@@ -51,8 +51,8 @@
 }
 
 .footer-list-item {
-  width: 40px;
-  height: 40px;
+  width: 24px;
+  height: 24px;
 }
 
 .footer-link {
@@ -71,8 +71,8 @@
   flex-direction: column;
 }
 .footer-link:hover,
-.soc-link:focus {
-  background-color: #404bbf;
+.footer-link:focus {
+  background-color: #31d0aa;
 }
 
 .footer-icon {
